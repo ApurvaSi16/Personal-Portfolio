@@ -1,3 +1,23 @@
+# Portfolio-Website
+A responsive portfolio website built with React.js showcasing my projects, skills, and experience. It includes a dynamic project section, contact form integrated with EmailJS, and modern UI/UX design. The site is optimized for all devices and hosted on GitHub Pages for easy access.
+
+The website is designed to provide an interactive and modern user experience, making it easy to explore my work, read about my journey, and get in touch with me.
+
+## Features:
+- **Responsive Design**: Optimized for viewing on various devices (desktop, tablet, mobile).
+- **Dynamic Project Section**: Displays details of my recent projects with live demos and links to their repositories.
+- **Skills Overview**: Lists technical skills and tools I am proficient in, including front-end, back-end, and frameworks.
+- **Contact Form**: Visitors can reach out to me through a contact form integrated with EmailJS for sending messages directly to my email.
+- **Modern UI/UX**: Created using CSS modules or styled-components, ensuring a visually appealing and consistent design.
+
+## Technologies Used:
+- **React.js**: Front-end framework for building the UI and managing state.
+- **EmailJS**: Integration for sending contact form submissions to my email.
+- **CSS (Modules/Tailwind)**: For styling and responsive layout.
+- **React Router**: Enables smooth navigation between different sections.
+- **GitHub Pages/Vercel**: Hosted the website for easy access and sharing.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
